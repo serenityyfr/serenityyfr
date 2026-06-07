@@ -16,11 +16,12 @@ I enjoy Neovim and   ❀˖°ricing°˖❀<br>
 <br>
 Currently migrating to NixOS.  
 
-## Tech stack:
+## Tech stack
 <div>
   
 <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width=40 />
 <img src="https://skillicons.dev/icons?i=git" alt="Git" width=40 />
 <img src="https://skillicons.dev/icons?i=github" alt="Github" width=40 />
+<img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux" width=40 />
 
 </div>
