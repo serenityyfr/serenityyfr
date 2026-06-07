@@ -1,16 +1,26 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=5000&pause=1000&color=EBBCBA&background=191724&center=true&vCenter=true&repeat=false&lines=Hey+There!" alt="Typing SVG" width = 100%/></a>
 
-<!--
-**serenityyfr/serenityyfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+> <p align="center"> ❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀⋆❀ </p>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###
+
+
+## About me
+
+
+I enjoy Neovim and   ❀˖°ricing°˖❀<br>
+<br>
+Currently migrating to NixOS.  
+
+## Tech stack:
+<div>
+  
+<img src="https://skillicons.dev/icons?i=bash" alt="Bash" width=40 />
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width=40 />
+<img src="https://skillicons.dev/icons?i=github" alt="Github" width=40 />
+
+</div>
