@@ -17,9 +17,8 @@
 
 ## About me
 
-
+Mouseless enthusiast (~140wpm :3)<br>
 I enjoy Neovim and   ❀˖°ricing°˖❀<br>
-<br>
 Currently migrating to NixOS.  
 
 ## Tech stack
