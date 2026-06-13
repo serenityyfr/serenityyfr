@@ -26,6 +26,5 @@ Currently migrating to NixOS.
   
 <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width=40 />
 <img src="https://skillicons.dev/icons?i=git" alt="Git" width=40 />
-<img src="https://skillicons.dev/icons?i=nix" alt="NixOS" width=40 />
 <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width=40 />
 </div>
