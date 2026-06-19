@@ -1,21 +1,28 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=5000&pause=1000&color=EBBCBA&background=191724&center=true&vCenter=true&repeat=false&lines=Hey+There!" alt="Typing SVG" width = 100%/></a>
-
-<div align="center" id="badges">
-<a href="https://www.youtube.com/watch?v=Z6dqIYKIBSU&list=RDZ6dqIYKIBSU&start_radio=1"><img src="https://img.shields.io/badge/Funky Town :3-ebbcba?style=flat-square&logo=&logoColor=191724" alt="FunkyTown Button"/></a>
-<a href="https://serenityyfr.lovestoblog.com"><img src="https://img.shields.io/badge/Website-9ccfd8?style=flat-square&logo=&logoColor=191724" alt="Website Button"/></a>
+<div align = center>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=1&color=EBBCBA&background=191724&center=true&vCenter=true&repeat=false&lines=Hey+There!" alt="Typing SVG" width = 100%/></a>
 </div>
+
+<br>
 
 ###
 
 ## About me
 
 I enjoy Neovim and   ❀˖°ricing°˖❀<br>
-Currently migrating to NixOS.  
 
 ## Tech stack
 <div>
   
 <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width=40 />
 <img src="https://skillicons.dev/icons?i=git" alt="Git" width=40 />
+<img src="https://skillicons.dev/icons?i=github" alt="Github" width=40 />
 <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width=40 />
+</div>
+
+## Links
+
+<div align="left" id="badges">
+<a href="https://serenityyfr.lovestoblog.com">
+  <img src="https://img.shields.io/badge/Website-ebbcba?style=flat-square&logo=&logoColor=191724" alt="Website Button"/>
+</a>
 </div>
