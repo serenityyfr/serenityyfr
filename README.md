@@ -8,7 +8,7 @@
 
 ## About me
 
-I enjoy Neovim and   ❀˖°ricing°˖❀<br>
+I enjoy ricing
 
 ## Tech stack
 <div>
