@@ -15,7 +15,7 @@
   
 | Daily Use | Learning | Would like to know more about |
 |-----------|----------|--------------------|
-| <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width=40 /> <img width="5"> <img src="https://skillicons.dev/icons?i=github" alt="Github (and Git)" width=40 /> |<img src="https://skillicons.dev/icons?i=rust" alt="Rust" width=40 /> | <img src="https://skillicons.dev/icons?i=python" alt="Python" width=40 /> <img width="5"> <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width=40 /> |
+| <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width=40 /> <img width="5"> <img src="https://skillicons.dev/icons?i=github" alt="Github (and Git)" width=40 /> |<img src="https://skillicons.dev/icons?i=rust" alt="Rust" width=40 /> <img src="https://skillicons.dev/icons?i=python" alt="Python" width=40 /> | <img width="5"> <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width=40 /> |
 | ------------------- |------------------| ------------------ |
 | *I learn with time* | *~4x/week study* | *No current study* |
 
