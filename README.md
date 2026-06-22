@@ -4,7 +4,7 @@
 
 <br>
 
-Archmagus 
+A r c h m a g u s <br>
 Neovim is the way
 
 ###
