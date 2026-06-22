@@ -5,7 +5,7 @@
 <br>
 
 - I try to rice
-- Neovim is superior awooga
+- Neovim is the way
 
 ###
 
@@ -13,9 +13,9 @@
 
 <div align="center">
   
-| Daily Use | Learning | Would like to know more about |
+| Learning | This week I also study | Would like to know more about |
 |-----------|----------|--------------------|
-| <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width=40 /> <img width="5"> <img src="https://skillicons.dev/icons?i=github" alt="Github (and Git)" width=40 /> |<img src="https://skillicons.dev/icons?i=rust" alt="Rust" width=40 /> | <img width="5"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width=40 /> |
+| <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width=40 |<img src="https://skillicons.dev/icons?i=github" alt="Github" width=40 /> | <img width="5"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width=40 /> |
 | ------------------- |------------------| ------------------ |
 |  | *~4x/week* | *No current study* |
 
