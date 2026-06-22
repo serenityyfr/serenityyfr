@@ -17,15 +17,13 @@ Neovim is the way
 | Main study | This week I read on: |
 |----------|------------------------|
 | <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width=40 /> |<img src="https://skillicons.dev/icons?i=github" alt="Github" width=40 /> | <img width="5"> |
-
 </div>
 
-<div>
+
 Recently I started studying <b>Rust</b>.<br>
-I also encounter <b>Lua</b> when configuring stuff. <br>
+
 <br>
-Every week I also set a theme for a reading about some random IT topic, usually things like <b>Git</b>, <b>Bash</b>, or <b>CSS</b>, to deepen my knowledge.
-</div>
+Every week I also set a theme for a reading about some core IT topic, like <b>Git</b>, <b>Bash</b>, or <b>CSS</b>, to deepen my knowledge.
 
 ###
 
