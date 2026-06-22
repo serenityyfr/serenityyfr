@@ -13,9 +13,9 @@
 
 <div align="center">
   
-| Learning | This week I also study |
+| Main study | This week I read on: |
 |----------|------------------------|
-| <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width=40 /> |<img src="https://skillicons.dev/icons?i=github" alt="Github" width=40 /> | <img width="5">
+| <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width=40 /> |<img src="https://skillicons.dev/icons?i=github" alt="Github" width=40 /> | <img width="5"> |
 
 </div>
 
