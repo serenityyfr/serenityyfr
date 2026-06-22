@@ -20,6 +20,13 @@ Neovim is the way
 
 </div>
 
+<div>
+Recently I started studying **Rust**.<br>
+I also encounter **Lua** when configuring stuff. <br>
+<br>
+Every week I also set a theme for a reading about some random IT topic, usually things like ***Git***, ***Bash***, or ***CSS***, to deepen my knowledge.
+</div>
+
 ###
 
 ## Stats & Links
