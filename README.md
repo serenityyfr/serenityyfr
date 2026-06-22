@@ -4,8 +4,8 @@
 
 <br>
 
-- I try to rice
-- Neovim is the way
+Archmagus 
+Neovim is the way
 
 ###
 
