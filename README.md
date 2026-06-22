@@ -22,6 +22,5 @@
 ###
 
 ## Stats  
-
   
 ![OtW Bandit:](https://img.shields.io/badge/OtW_Bandit-lvl_12-yellowgreen?style=for-the-badge)
