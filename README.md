@@ -4,7 +4,8 @@
 
 <br>
 
-A r c h m a g u s <br>
+> A r c h m a g u s
+
 Neovim is the way
 
 ###
