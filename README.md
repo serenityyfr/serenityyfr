@@ -23,7 +23,7 @@ Neovim is the way
 Recently I started studying <b>Rust</b>.<br>
 
 <br>
-Every week I also set a theme for a reading about some core IT topic, like <b>Git</b>, <b>Bash</b>, or <b>CSS</b>, to deepen my knowledge.
+Every week I also set a theme for a reading about some IT topic, like <b>Git</b>, <b>Bash</b>, or <b>CSS</b>, to deepen my knowledge, in things I'll encounter for the rest of my life...
 
 ###
 
