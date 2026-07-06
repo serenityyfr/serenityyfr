@@ -4,8 +4,11 @@
 
 <br>
 
+<div align = center>
+  
 > A r c h m a g u s
 
+</div>
 Neovim is the way
 
 ###
