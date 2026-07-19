@@ -10,7 +10,6 @@
 
 Recently I started studying <b>Rust</b><br>
 I also like ricing and Neovim *(I use Arch btw)*<br><br>
-Every week I set a theme to read about topics like <b>Git</b>, <b>Bash</b>, or <b>CSS</b>, to deepen my knowledge in things I'll encounter for the rest of my life...
 
 ###
 
@@ -18,9 +17,10 @@ Every week I set a theme to read about topics like <b>Git</b>, <b>Bash</b>, or <
 
 <div align="center">
   
-| Main study | This week I read on: |
-|----------|------------------------|
-| <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width=40 /> || <img width="5"> |
+
+<img src="https://skillicons.dev/icons?i=rust" alt="Rust" width=40 /> <img width="5">
+<img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux" width=40 /> <img width="5"> 
+
 </div>
 
 
