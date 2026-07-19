@@ -4,12 +4,13 @@
 
 <br>
 
-<div align = center>
-  
-> A r c h m a g u s
+> [!NOTE]
+> This README is WIP
+<br>
 
-</div>
-Neovim is the way
+Recently I started studying <b>Rust</b><br>
+I also like ricing and Neovim *(I use Arch btw)*<br><br>
+Every week I set a theme to read about topics like <b>Git</b>, <b>Bash</b>, or <b>CSS</b>, to deepen my knowledge in things I'll encounter for the rest of my life...
 
 ###
 
@@ -23,10 +24,6 @@ Neovim is the way
 </div>
 
 
-Recently I started studying <b>Rust</b>.<br>
-
-<br>
-Every week I also set a theme for a reading about some IT topic, like <b>Git</b>, <b>Bash</b>, or <b>CSS</b>, to deepen my knowledge, in things I'll encounter for the rest of my life...
 
 ###
 
