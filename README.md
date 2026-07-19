@@ -19,7 +19,7 @@ Neovim is the way
   
 | Main study | This week I read on: |
 |----------|------------------------|
-| <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width=40 /> |<img src="https://skillicons.dev/icons?i=bash" alt="Bash" width=40 /> | <img width="5"> |
+| <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width=40 /> || <img width="5"> |
 </div>
 
 
