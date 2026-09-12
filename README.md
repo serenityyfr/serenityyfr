@@ -2,7 +2,7 @@
 <div align="center">
   
 # Hey there!
-[![My Skills](https://skillicons.dev/icons?i=linux,go,docker,bash,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,go,docker,git)](https://skillicons.dev)
 
 </div>
 
