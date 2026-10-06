@@ -10,7 +10,7 @@
 </div>
 
 <p>
-  I'm a CS student learning about NixOS
-  I'd like to explore DevOps.
+   - I'm a CS student learning about NixOS
+   - I'd like to explore DevOps.
 </p>
 
