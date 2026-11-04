@@ -1,4 +1,3 @@
-
 <div align="center">
   
 [![Hey There Typing SVG](https://readme-typing-svg.demolab.com?font=Maple+Mono&weight=800&size=33&pause=1000&color=FFCCCA&background=191724&center=true&vCenter=true&width=435&lines=Hey+there+%3A3)](https://git.io/typing-svg)
@@ -9,8 +8,8 @@
 
 </div>
 
-<p>
-   - I'm a CS student learning about DevOps
-   - I'd like to explore NixOS
-</p>
 
+<p>
+   - I'm a CS student learning about DevOps <br>
+   - I'd like to explore NixOS<br>
+</p>
